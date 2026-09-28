@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 18,
+    "left": 0,
+    "width": 651,
+    "height": 868,
+    "isRotated": true,
+    "originalWidth": 651,
+    "originalHeight": 1005
+  },
+  "imagePath": "image-targets/Tarjeta_presentacion 2_luminance.png",
+  "metadata": null,
+  "name": "Tarjeta_presentacion 2",
+  "resources": {
+    "originalImage": "Tarjeta_presentacion 2_original.png",
+    "croppedImage": "Tarjeta_presentacion 2_cropped.png",
+    "thumbnailImage": "Tarjeta_presentacion 2_thumbnail.png",
+    "luminanceImage": "Tarjeta_presentacion 2_luminance.png"
+  },
+  "created": 1790635725378,
+  "updated": 1790635835668
+}
